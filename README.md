@@ -2,7 +2,8 @@
 
 ## TODO
 
-- Building CQRS architecture on top of ZeroMQ.
-- DDD in Haskell. :wink:
+- Building CQRS architecture on top of ZeroMQ
+- DDD in Haskell
 - Event Sourcing:
-  - Event Store, Apache Samza, Apache Kafka.
+  - Test various options: *Event Store*, *Apache Samza*, *Apache Kafka*
+- Flux on *front-end*
