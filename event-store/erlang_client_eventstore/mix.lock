@@ -1,0 +1,4 @@
+%{"erles": {:hg, "https://bitbucket.org/anakryiko/erles", "Mercurial Distributed SCM", []},
+  "jsx": {:git, "https://github.com/talentdeficit/jsx.git", "56880ce51976693b82c6f56bb877d166d9403d31", [branch: "master"]},
+  "meck": {:git, "https://github.com/eproxus/meck", "8de4a66bfd33d05f090b930b4e90d64b89b6e9cb", [branch: "master"]},
+  "protobuffs": {:git, "https://github.com/basho/erlang_protobuffs.git", "d64ada24cf0479bcf3358bd67b3fb3d654ae1990", [branch: "master"]}}
