@@ -10,3 +10,8 @@ Simple example how to use `EventStore` server with an unofficial *Erlang* client
 4. Move to the directory `erlang_client_eventstore` and invoke:
   - `mix deps.get`
   - `iex -S mix`
+
+## TODO
+
+- [ ] Erlang project (`rebar3`) with `erles` client.
+  - [ ] Remove Elixir one.
