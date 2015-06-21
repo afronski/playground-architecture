@@ -1,4 +1,5 @@
-/_build
-/deps
-erl_crash.dump
-*.ez
+# Build directory:
+_build/
+
+# Lock files:
+*.lock
