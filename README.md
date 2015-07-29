@@ -2,9 +2,11 @@
 
 ## TODO
 
-- Building CQRS architecture on top of ZeroMQ
-- DDD in Haskell
-- Event Sourcing:
-  - Test various options: *Event Store*, *Apache Samza*, *Apache Kafka*
-  - [*Event Sourcing is inherently functional*](https://vimeo.com/131636650).
-- Flux on *front-end*
+- *Enterprise TicTacToe*
+  - Game Server - *Haskell*.
+  - Request Router and Events - *Erlang*.
+  - Communication - *ZeroMQ*. 
+  - Front-end - *React.js* / *Flux* (*d3.js* for visualization).
+  - Whole concept built with *CQRS*, *DDD*, *Event Sourcing*.
+    - [*Event Sourcing is inherently functional*](https://vimeo.com/131636650).
+    - [*Enterprise Tic-Tac-Toe*](https://vimeo.com/131196782).
